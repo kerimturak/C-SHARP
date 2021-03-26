@@ -1,0 +1,10 @@
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\bin\Debug\Card_Matching.exe.config
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\bin\Debug\Card_Matching.exe
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\bin\Debug\Card_Matching.pdb
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.Form1.resources
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.Properties.Resources.resources
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.exe
+C:\Users\kerim\source\repos\Card_Matching\Card_Matching\obj\Debug\Card_Matching.pdb
