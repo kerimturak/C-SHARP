@@ -1,0 +1,10 @@
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\bin\Debug\Soru_yarismasi.exe.config
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\bin\Debug\Soru_yarismasi.exe
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\bin\Debug\Soru_yarismasi.pdb
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.Form1.resources
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.Properties.Resources.resources
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.exe
+C:\Users\kerim\source\repos\Soru_yarismasi\Soru_yarismasi\obj\Debug\Soru_yarismasi.pdb
